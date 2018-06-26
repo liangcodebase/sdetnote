@@ -1,5 +1,7 @@
 * no sleep  
- `pmset noidle `
+  ```
+  pmset noidle
+  ```
  
 * restart smtp service
   ```
