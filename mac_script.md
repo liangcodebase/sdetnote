@@ -1,0 +1,2 @@
+* no sleep  
+ `pmset noidle `
