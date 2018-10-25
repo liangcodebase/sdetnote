@@ -1,0 +1,5 @@
+
+
+```
+supervisorctl restart <name>
+```
